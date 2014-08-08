@@ -14,7 +14,6 @@ public class XxxxxCreateUser {
 		try {
 			test();
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 
